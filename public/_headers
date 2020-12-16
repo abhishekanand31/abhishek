@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---src-templates-cara-tsx-bb18a3c885809fe37a08.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-0cf6d18aa3d11bbd5a24.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-06f646d936b841f99ebd.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-b759ab6c0807a24f62b9.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/abhishekanand/
+  Link: </abhishekanand/webpack-runtime-0cf6d18aa3d11bbd5a24.js>; rel=preload; as=script
+  Link: </abhishekanand/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </abhishekanand/app-b759ab6c0807a24f62b9.js>; rel=preload; as=script
+  Link: </abhishekanand/component---src-templates-cara-tsx-bb18a3c885809fe37a08.js>; rel=preload; as=script
+  Link: </abhishekanand/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </abhishekanand/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/abhishekanand/offline-plugin-app-shell-fallback/
+  Link: </abhishekanand/webpack-runtime-0cf6d18aa3d11bbd5a24.js>; rel=preload; as=script
+  Link: </abhishekanand/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </abhishekanand/app-b759ab6c0807a24f62b9.js>; rel=preload; as=script
+  Link: </abhishekanand/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </abhishekanand/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </abhishekanand/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
